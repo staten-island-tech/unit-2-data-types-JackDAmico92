@@ -1,7 +1,8 @@
-x = 2
-y = 3
-number = input(y)
-if number == :
-    print("odd")
-else:
-    print("even")
+x = 12
+
+
+
+if x*2 ==0:
+    print('even')
+
+ 
