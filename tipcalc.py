@@ -1,4 +1,10 @@
 
+
+
+
+
+
+
 print("How was the service?")
 service = input("service was:")
 if service("bad"):
