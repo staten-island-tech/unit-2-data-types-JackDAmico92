@@ -1,8 +1,10 @@
-x = 12
+number = int(input("State your number:"))
 
 
 
-if x*2 ==0:
+if number % 2 == 0:
     print('even')
+else:
+    print('odd')
 
  
