@@ -8,11 +8,4 @@ def factors(num):
              factorlist.append(i) 
      return factorlist
 
-factors1 = factors(number1)
-factors2 = factors(number2)
-
-for i in factors1[::-1]:
-     if i in factors2:
-        print(i)
-        break
 
