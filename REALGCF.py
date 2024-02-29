@@ -6,7 +6,7 @@ def factors(gcf):
      for i in range(1, gcf+1): 
         if gcf%i==0: # if it can leave no remainder 
              factorlist.append(i)  #adds to the end of the list
-     return factorlist #outputs factorlist
+     return factorlist # outputs factorlist
 
 # keeps adding one until it finds a factor and if it finds a factor it goes again
 
